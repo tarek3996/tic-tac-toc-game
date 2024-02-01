@@ -1,0 +1,77 @@
+C:\Users\tito\Desktop\rev\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\tic tac toc game.exe
+C:\Users\tito\Desktop\rev\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\tic tac toc game.deps.json
+C:\Users\tito\Desktop\rev\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\tic tac toc game.runtimeconfig.json
+C:\Users\tito\Desktop\rev\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\tic tac toc game.dll
+C:\Users\tito\Desktop\rev\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\tic tac toc game.pdb
+C:\Users\tito\Desktop\rev\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic_tac_toc_game.Form1.resources
+C:\Users\tito\Desktop\rev\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic tac toc game.csproj.GenerateResource.cache
+C:\Users\tito\Desktop\rev\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic tac toc game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tito\Desktop\rev\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic tac toc game.AssemblyInfoInputs.cache
+C:\Users\tito\Desktop\rev\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic tac toc game.AssemblyInfo.cs
+C:\Users\tito\Desktop\rev\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic tac toc game.csproj.CoreCompileInputs.cache
+C:\Users\tito\Desktop\rev\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic tac toc game.dll
+C:\Users\tito\Desktop\rev\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\refint\tic tac toc game.dll
+C:\Users\tito\Desktop\rev\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic tac toc game.pdb
+C:\Users\tito\Desktop\rev\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic tac toc game.genruntimeconfig.cache
+C:\Users\tito\Desktop\rev\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\ref\tic tac toc game.dll
+C:\Users\tito\Desktop\rev\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic_tac_toc_game.Properties.Resources.resources
+C:\Users\tito\Desktop\rev\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic_tac_toc_game.Form1vs1.resources
+C:\Users\tito\Desktop\rev\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic_tac_toc_game.single_player.resources
+C:\Users\tito\Desktop\rev\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic_tac_toc_game.Registration.resources
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\tic tac toc game.exe
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\tic tac toc game.deps.json
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\tic tac toc game.runtimeconfig.json
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\tic tac toc game.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\tic tac toc game.pdb
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic_tac_toc_game.Form1vs1.resources
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic_tac_toc_game.Form1.resources
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic_tac_toc_game.Properties.Resources.resources
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic_tac_toc_game.Registration.resources
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic_tac_toc_game.single_player.resources
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic tac toc game.csproj.GenerateResource.cache
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic tac toc game.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic tac toc game.AssemblyInfoInputs.cache
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic tac toc game.AssemblyInfo.cs
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic tac toc game.csproj.CoreCompileInputs.cache
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic tac toc game.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\refint\tic tac toc game.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic tac toc game.pdb
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic tac toc game.genruntimeconfig.cache
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\ref\tic tac toc game.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic_tac_toc_game.about_form.resources
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic_tac_toc_game.score_table.resources
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic tac toc game.csproj.AssemblyReference.cache
+E:\iti\benha\8-advanced c#\project\tic tac toc game\tic tac toc game\obj\Debug\net8.0-windows\tic tac toc game.csproj.CopyComplete
